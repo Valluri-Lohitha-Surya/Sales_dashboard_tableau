@@ -71,8 +71,7 @@ Sales-Dashboard/
 
 > **Dashboard Screenshot**
 
-<img src="Sales Dashboard.png" alt="Sales Dashboard" width="100%">
-
+<img width="1499" height="999" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/738b71d0-d0c9-43b2-9404-d93cfb7fe6d5" />
 
 ---
 
