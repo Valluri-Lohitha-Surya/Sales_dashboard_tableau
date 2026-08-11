@@ -71,7 +71,7 @@ Sales-Dashboard/
 
 > **Dashboard Screenshot**
 
-<img src="images/dashboard.png" alt="Sales Dashboard" width="100%">
+<img src="Sales Dashboard.png" alt="Sales Dashboard" width="100%">
 
 
 ---
@@ -93,7 +93,7 @@ The dashboard helps answer questions such as:
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/Sales-Dashboard.git
+git clone https://github.com/Valluri-Lohitha-Surya/Sales-Dashboard.git
 ```
 
 2. Open the **Dashboard.twbx** file using Tableau Desktop or Tableau Public.
@@ -102,14 +102,6 @@ git clone https://github.com/yourusername/Sales-Dashboard.git
 
 ---
 
-## 🌐 Live Dashboard
-
-**Tableau Public:**
-https://public.tableau.com/app/profile/yourusername
-
-*(Update this link after publishing your dashboard.)*
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -125,14 +117,5 @@ Through this project, I strengthened my skills in:
 
 ---
 
-## 📬 Connect With Me
 
-**GitHub:** https://github.com/yourusername
 
-**LinkedIn:** https://www.linkedin.com/in/yourprofile/
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub. Feedback and suggestions are always welcome!
